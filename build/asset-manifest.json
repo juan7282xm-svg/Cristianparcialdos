@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/valenzuela-william-react/static/css/main.fb77b157.css",
+    "main.js": "/valenzuela-william-react/static/js/main.138aacf6.js",
+    "static/js/453.e7fe82e9.chunk.js": "/valenzuela-william-react/static/js/453.e7fe82e9.chunk.js",
+    "static/media/profile..jpeg": "/valenzuela-william-react/static/media/profile..80b429e8364cff10fa1e.jpeg",
+    "static/media/5_kanvan.svg": "/valenzuela-william-react/static/media/5_kanvan.51e3d92565b7d21464760955d864372f.svg",
+    "static/media/6_xp.svg": "/valenzuela-william-react/static/media/6_xp.a5c3856fa99787a3f6a14a6a578fb8dc.svg",
+    "static/media/3_agiles.svg": "/valenzuela-william-react/static/media/3_agiles.ad5fe2b1695a1778699208bb79a5e15d.svg",
+    "static/media/4_scrum.svg": "/valenzuela-william-react/static/media/4_scrum.9023305bb207f38045dd3788ad3a5242.svg",
+    "static/media/2_modelo_v.svg": "/valenzuela-william-react/static/media/2_modelo_v.82701e68391cad911204fb32f7e5b4df.svg",
+    "static/media/7_hibridas_modernas.svg": "/valenzuela-william-react/static/media/7_hibridas_modernas.9298bf73194f7433046370f0387b609c.svg",
+    "static/media/1_cascada.svg": "/valenzuela-william-react/static/media/1_cascada.a789100543ff59a861f2c4d123343a43.svg",
+    "index.html": "/valenzuela-william-react/index.html",
+    "main.fb77b157.css.map": "/valenzuela-william-react/static/css/main.fb77b157.css.map",
+    "main.138aacf6.js.map": "/valenzuela-william-react/static/js/main.138aacf6.js.map",
+    "453.e7fe82e9.chunk.js.map": "/valenzuela-william-react/static/js/453.e7fe82e9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fb77b157.css",
+    "static/js/main.138aacf6.js"
+  ]
+}
